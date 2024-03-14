@@ -8,4 +8,5 @@ This portfolio demonstrates my knowledge and skills in database projects, which 
 - Queries covering such aspects of database operations as: filtering, sorting, grouping and aggregation of data.
 - Using window functions
 
-
+## Database schema
+![database schema](Database_schema.png)
